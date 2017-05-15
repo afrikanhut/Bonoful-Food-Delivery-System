@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--header part of banoful-->
+<!--header part of Suya buffet-->
 <html>
 <head>
 	<meta charset="UTF-8" />
@@ -11,11 +11,11 @@
   <?php require_once('header.php') ?>
 	<div id="content">
 		<h1>Our Concern</h1> <br />
-    <p> Banoful & co Ltd is well equipped by modern machinery imported fron Italy & India. By using the most advanced machinery Banaful & Co Ltd now able to produce 15000 ton per year of different kind of confectionary,bakery and snacks itec. Now 2000 work force are employed to meet up the ultimate customer satisfaction along with to smooth the production process. Banoful & co Ltd has the 7 factories in different location in all over the Bangladesh. Good variation and quality is the main strength of the company and it helps the company to become leading national band in Bangladesh. </p>
     
 		
     
-    
+    suya buffet allimentos ltda is an African imported cousine company specialised in making african stakes , Suya buffet is 
+the first african cousine allimentos industry in latin America
     
     
 	</div>
